@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scikit-qml"
+version = "0.8.0"
+description = "Quantum machine learning written from scratch in pure NumPy: simulator, adjoint gradients, autograd, 50+ QML models and hyper-parameter search"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Sebastiano Mirabile"}]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.22"]
+keywords = ["quantum machine learning", "variational circuits", "QSVM", "QCNN", "QLSTM", "hyperparameter tuning", "numpy"]
+
+[project.optional-dependencies]
+dev = ["pytest", "matplotlib", "pandas", "jupyter"]
+
+[tool.setuptools.packages.find]
+include = ["skqml*"]
+
+[tool.setuptools.package-data]
+"skqml.datasets" = ["data/*.csv", "data/*.csv.gz"]

@@ -1,0 +1,744 @@
+time,latitude,longitude,depth_km,magnitude,mag_type,place
+2026-10-30T10:45:03,39.7308,24.2284,10,4.7,mb,42 km SE of Sykiá; Greece
+2026-10-30T10:24:11,8.3731,127.3616,10,4.5,mb,104 km ENE of Barcelona; Philippines
+2026-10-30T10:12:28,-62.4457,155.2618,10,5.1,mb,Balleny Islands region
+2026-10-30T08:45:49,43.2605,146.4242,43.63,4.6,mb,64 km SSW of Shikotan; Russia
+2026-10-30T05:10:19,-18.1766,-177.0471,371.79,4.8,mb,Fiji region
+2026-10-30T04:58:31,40.3108,142.3621,56.6,4.6,mb,51 km ENE of Noda; Japan
+2026-10-30T03:04:17,-5.8137,148.3151,116.3,5.1,mb,97 km NNE of Finschhafen; Papua New Guinea
+2026-10-29T23:04:49,-18.1317,167.9345,10,4.6,mb,59 km SW of Port-Vila; Vanuatu
+2026-10-29T21:46:44,-15.1891,167.4523,142.83,6.2,mww,43 km ESE of Port-Olry; Vanuatu
+2026-10-29T21:12:36,44.1091,148.1794,35,4.6,mb,121 km ENE of Shikotan; Russia
+2026-10-29T21:00:15,51.5608,15.9523,5,4.7,mb,1 km SSE of Radwanice; Poland
+2026-10-29T20:32:11,-4.4698,132.4922,10,5,mb,131 km NNW of Tual; Indonesia
+2026-10-29T20:14:32,53.5843,-163.0279,15.6,5,mww,143 km S of False Pass; Alaska
+2026-10-29T17:37:01,39.8625,143.5623,35,4.5,mb,141 km E of Miyako; Japan
+2026-10-29T13:42:57,7.5923,-80.6309,10,4.7,mb,6 km SE of Pitaloza Arriba; Panama
+2026-10-29T11:38:24,-7.5288,130.0224,10,4.6,mb,Pulau Pulau Tanimbar; Indonesia
+2026-10-29T10:33:22,-18.4979,167.6261,10,4.9,mb,111 km SW of Port-Vila; Vanuatu
+2026-10-29T08:49:42,13.3785,91.6593,10,5.1,mb,218 km NNW of Bamboo Flat; India
+2026-10-29T07:54:06,37.9065,-26.2963,10,4.6,mb,41 km W of Mosteiros; Portugal
+2026-10-29T07:49:50,-36.4058,-98.0489,10,6.4,mww,southeast of Easter Island
+2026-10-29T07:31:30,8.4677,127.4269,10,5.4,mww,114 km ENE of Barcelona; Philippines
+2026-10-29T05:33:36,-61.3277,161.1643,10,5.1,mb,Balleny Islands region
+2026-10-29T05:06:48,-60.2079,-27.9532,8.56,5.4,mww,South Sandwich Islands region
+2026-10-29T03:26:42,-5.6991,141.9018,10,5.7,mb,82 km NE of Kiunga; Papua New Guinea
+2026-10-29T03:19:05,8.3638,127.4204,10,5.8,mww,110 km ENE of Barcelona; Philippines
+2026-10-29T03:17:54,8.3695,127.4427,10,5.4,mb,113 km ENE of Barcelona; Philippines
+2026-10-29T02:18:21,12.9476,144.5819,70.24,4.8,mb,36 km SSW of Merizo Village; Guam
+2026-10-29T01:07:04,-50.2688,139.4087,10,4.8,mb,western Indian-Antarctic Ridge
+2026-10-29T00:57:36,-15.0234,168.1637,10,4.9,mb,117 km E of Port-Olry; Vanuatu
+2026-10-29T00:08:20,-15.1213,168.0994,10,5.4,mww,109 km ENE of Luganville; Vanuatu
+2026-10-28T23:13:50,43.1303,144.3697,130.14,4.6,mb,17 km N of Kushiro; Japan
+2026-10-28T22:42:54,44.3448,82.7252,10,4.6,mb,80 km SE of Bole; China
+2026-10-28T22:06:45,-6.3231,130.3957,142,5.7,mww,271 km WSW of Tual; Indonesia
+2026-10-28T19:56:47,2.4277,126.7587,35,5.3,mb,159 km WNW of Tobelo; Indonesia
+2026-10-28T19:45:32,58.1136,-32.1037,10,5.2,mww,Reykjanes Ridge
+2026-10-28T18:44:30,57.9607,-32.2017,10,4.7,mb,Reykjanes Ridge
+2026-10-28T18:32:23,35.7763,140.6463,41.49,4.7,mb,6 km N of Asahi; Japan
+2026-10-28T15:40:55,44.2394,82.8042,10,4.7,mb,81 km ENE of Mazha; China
+2026-10-28T15:07:52,35.7015,140.7059,41.36,5.5,mww,5 km ESE of Asahi; Japan
+2026-10-28T13:31:54,8.9241,40.0638,10,4.5,mb,13 km WSW of Āwash; Ethiopia
+2026-10-28T12:58:58,-24.197,-177.0372,129.95,4.6,mb,south of the Fiji Islands
+2026-10-28T12:47:08,58.2153,-32.3348,10,5,mb,Reykjanes Ridge
+2026-10-28T12:35:23,-16.541,-173.2355,10,4.9,mb,88 km SE of Hihifo; Tonga
+2026-10-28T12:14:49,5.6073,125.4182,10,4.9,mb,1 km WSW of Butulan; Philippines
+2026-10-28T11:56:17,58.3556,-32.2398,10,5,mb,Reykjanes Ridge
+2026-10-28T11:37:49,58.1005,-32.1508,10,5.5,mww,Reykjanes Ridge
+2026-10-28T09:32:56,5.1505,125.3884,84.25,4.8,mb,29 km SSW of Sarangani; Philippines
+2026-10-28T07:02:12,-30.9564,-65.5684,186.3,4.7,mb,39 km SSW of Serrezuela; Argentina
+2026-10-28T06:12:47,51.2258,159.5373,10,5,mb,205 km SSE of Vilyuchinsk; Russia
+2026-10-28T04:31:04,-13.7421,165.7007,10,5,mb,200 km W of Sola; Vanuatu
+2026-10-28T02:59:48,-14.0693,165.8001,10,5.6,mww,174 km NW of Port-Olry; Vanuatu
+2026-10-28T02:21:45,-13.9312,165.446,10,6,mww,214 km NW of Port-Olry; Vanuatu
+2026-10-28T02:17:15,-13.8123,165.4612,10,5.2,mb,220 km NW of Port-Olry; Vanuatu
+2026-10-28T02:13:55,-13.8902,165.4403,10,4.8,mb,217 km NW of Port-Olry; Vanuatu
+2026-10-28T01:39:11,-13.8946,165.389,10,5.5,mww,221 km NW of Port-Olry; Vanuatu
+2026-10-28T01:11:54,5.6079,125.3054,45.94,5.2,mb,6 km NW of Balangonan; Philippines
+2026-10-27T23:43:51,5.6402,125.3536,57.85,5.1,mww,7 km N of Balangonan; Philippines
+2026-10-27T23:14:17,12.6676,142.9938,101,5.4,mww,193 km WSW of Merizo Village; Guam
+2026-10-27T18:57:53,32.5388,93.9028,10,5.4,mb,210 km ENE of Nagqu; China
+2026-10-27T16:07:53,18.2708,119.8508,10,4.9,mb,70 km WNW of Callaguip; Philippines
+2026-10-27T15:31:41,-23.7421,-179.8379,496.78,4.8,mb,south of the Fiji Islands
+2026-10-27T15:26:03,7.684,-81.6012,10,5,mww,29 km W of Río Grande; Panama
+2026-10-27T14:44:01,-9.0977,110.3861,10,5.4,mb,126 km S of Pundong; Indonesia
+2026-10-27T14:43:09,-9.3662,110.2973,20.61,4.9,mb,156 km S of Pundong; Indonesia
+2026-10-27T14:09:06,36.2043,69.9044,115.08,4.6,mb,41 km S of Farkhār; Afghanistan
+2026-10-27T12:01:11,16.3977,-93.817,140.34,4.6,mb,5 km ENE of Tierra y Libertad; Mexico
+2026-10-27T11:41:22,-23.1819,-66.6616,206.26,4.6,mb,100 km W of El Aguilar; Argentina
+2026-10-27T11:19:39,-31.7949,-69.5043,112.77,4.5,mb,51 km S of Calingasta; Argentina
+2026-10-27T10:50:35,-14.0067,165.6479,10,5.2,mb,191 km NW of Port-Olry; Vanuatu
+2026-10-27T10:06:31,-13.9437,165.7876,10,5,mb,184 km NW of Port-Olry; Vanuatu
+2026-10-27T09:20:55,-13.9006,165.5556,10,5,mb,206 km NW of Port-Olry; Vanuatu
+2026-10-27T09:07:45,-15.1739,-173.4094,10,5,mb,95 km NNE of Hihifo; Tonga
+2026-10-27T08:55:23,-13.9141,165.6671,11,5.8,mww,196 km NW of Port-Olry; Vanuatu
+2026-10-27T02:02:55,-10.6683,161.3189,35,4.9,mb,69 km WSW of Kirakira; Solomon Islands
+2026-10-27T01:17:53,33.2845,140.7128,66.72,4.6,mb,203 km SSE of Tateyama; Japan
+2026-10-27T00:25:08,37.3869,141.625,48.93,4.8,mb,54 km E of Tomioka; Japan
+2026-10-26T22:52:22,2.5777,127.7372,88.65,4.5,mb,98 km NNW of Tobelo; Indonesia
+2026-10-26T22:33:48,-12.4277,46.0831,10,4.5,mb,96 km ENE of Pamandzi; Mayotte
+2026-10-26T21:18:11,-36.4594,138.5321,10,4.7,mb,98 km S of Encounter Bay; Australia
+2026-10-26T20:52:11,-32.2811,-71.3014,47.74,4.6,mb,20 km NNW of La Ligua; Chile
+2026-10-26T20:41:25,5.6361,126.5418,75.12,4.5,mb,89 km SSE of Pondaguitan; Philippines
+2026-10-26T20:20:25,-30.0025,-71.2801,61.1,4.7,mb,7 km SE of Coquimbo; Chile
+2026-10-26T19:36:16,-20.3438,-68.6903,119.52,4.9,mb,100 km E of La Tirana; Chile
+2026-10-26T18:07:04,38.6442,71.0764,47.34,4.5,mb,74 km SE of Rasht; Tajikistan
+2026-10-26T15:08:25,-14.2093,165.9223,10,4.6,mb,154 km NW of Port-Olry; Vanuatu
+2026-10-26T12:13:30,-13.8613,165.6029,10,5.2,mww,205 km NW of Port-Olry; Vanuatu
+2026-10-26T11:38:06,53.5071,-165.1239,35,4.6,mwr,81 km SSE of Akutan; Alaska
+2026-10-26T11:17:55,-13.9396,165.3858,10,5,mww,218 km NW of Port-Olry; Vanuatu
+2026-10-26T11:01:55,-59.8141,-27.7087,173.49,4.8,mb,South Sandwich Islands region
+2026-10-26T10:13:01,-18.283,-178.0109,641.81,5.5,mww,283 km E of Levuka; Fiji
+2026-10-26T08:10:33,44.7225,147.9339,139.44,4.5,mb,56 km S of Kuril’sk; Russia
+2026-10-26T07:48:16,40.2886,77.9297,10,4.5,mb,107 km WNW of Tumxuk; China
+2026-10-26T04:53:40,-8.443,121.5729,10,5,mb,45 km NNW of Ende; Indonesia
+2026-10-26T04:53:35,-14.0694,165.6991,10,4.8,mww,182 km NW of Port-Olry; Vanuatu
+2026-10-26T03:59:22,-10.0437,123.2505,35,4.8,mb,41 km WNW of Kupang; Indonesia
+2026-10-26T01:44:01,-13.8739,165.5699,10,4.7,mb,207 km NW of Port-Olry; Vanuatu
+2026-10-26T01:22:20,-13.8803,165.5831,10,4.9,mb,205 km NW of Port-Olry; Vanuatu
+2026-10-25T22:16:27,27.8494,139.7272,482.18,4.8,mb,Bonin Islands; Japan region
+2026-10-25T22:14:16,27.8572,139.6916,485.13,5.3,mww,Bonin Islands; Japan region
+2026-10-25T22:01:35,32.23,93.6303,10,4.7,mb,170 km ENE of Nagqu; China
+2026-10-25T20:30:42,-14.2065,165.7734,10,4.8,mww,167 km WNW of Port-Olry; Vanuatu
+2026-10-25T17:49:58,52.1923,-178.8056,152.9,4.6,mb,153 km WNW of Adak; Alaska
+2026-10-25T17:44:23,36.274,71.1025,110.03,5.2,mww,59 km SW of Ashkāsham; Afghanistan
+2026-10-25T17:11:49,-16.0993,-73.4741,62.09,4.7,mb,19 km NE of Atico; Peru
+2026-10-25T16:46:48,32.5003,93.8391,10,4.5,mb,203 km ENE of Nagqu; China
+2026-10-25T16:25:45,-13.9253,165.3571,10,4.6,mb,222 km NW of Port-Olry; Vanuatu
+2026-10-25T13:54:24,-24.6285,179.9035,513.91,4.6,mb,south of the Fiji Islands
+2026-10-25T12:09:05,0.1306,126.1478,43.81,4.6,mb,155 km WSW of Ternate; Indonesia
+2026-10-25T11:25:57,32.4625,94.0534,7,5.9,mww,218 km ENE of Nagqu; China
+2026-10-25T11:24:14,32.3695,93.8872,10,5.1,mb,199 km ENE of Nagqu; China
+2026-10-25T10:30:27,-4.3644,143.0843,72.35,5.4,mww,33 km ESE of Ambunti; Papua New Guinea
+2026-10-25T09:11:17,22.5515,142.9691,133.08,4.6,mb,Volcano Islands; Japan region
+2026-10-25T08:41:00,-13.8848,165.5769,10,5.4,mww,205 km NW of Port-Olry; Vanuatu
+2026-10-25T07:44:32,53.4937,-165.1559,35.07,4.6,mb,82 km SSE of Akutan; Alaska
+2026-10-25T07:11:49,-16.0676,-74.747,26.45,4.6,mb,50 km SW of Atiquipa; Peru
+2026-10-25T06:50:47,-23.0176,-114.3021,10,4.6,mb,Easter Island region
+2026-10-25T06:04:22,37.849,141.8415,52.78,4.5,mb,74 km SSE of Onagawa Chō; Japan
+2026-10-25T05:15:44,37.6512,21.0112,10,4.9,mb,17 km SE of Ambelókipoi; Greece
+2026-10-25T03:29:10,-6.1737,147.1659,80.78,5.2,mb,63 km NNE of Lae; Papua New Guinea
+2026-10-25T02:36:32,27.6872,139.7389,498.88,4.8,mb,Bonin Islands; Japan region
+2026-10-25T02:24:00,-14.9964,167.3039,116,6.1,mww,25 km ENE of Port-Olry; Vanuatu
+2026-10-25T02:09:23,27.7953,139.6184,492.38,6.5,mww,Bonin Islands; Japan region
+2026-10-25T02:06:10,-14.4542,165.7028,10,5.1,mww,161 km WNW of Port-Olry; Vanuatu
+2026-10-25T01:46:23,-14.3846,165.6863,10,5.1,mww,166 km WNW of Port-Olry; Vanuatu
+2026-10-24T23:59:36,31.8226,131.873,10,5.3,mb,44 km ESE of Miyazaki; Japan
+2026-10-24T23:44:57,-13.9002,165.7311,10,5,mb,192 km NW of Port-Olry; Vanuatu
+2026-10-24T23:39:07,-13.8892,165.6036,10,4.8,mww,203 km NW of Port-Olry; Vanuatu
+2026-10-24T22:47:08,-13.8678,165.534,10,5,mb,210 km NW of Port-Olry; Vanuatu
+2026-10-24T21:41:51,-0.3574,132.2541,10,4.9,mb,53 km NNW of Fef; Indonesia
+2026-10-24T20:35:04,52.1565,159.1963,70.18,5.3,mb,101 km SSE of Vilyuchinsk; Russia
+2026-10-24T19:18:20,-20.025,168.7941,22.4,4.9,mb,73 km SW of Isangel; Vanuatu
+2026-10-24T19:07:15,-13.975,165.6556,10,5,mb,193 km NW of Port-Olry; Vanuatu
+2026-10-24T16:54:15,-14.2056,165.9365,10,4.8,mww,153 km NW of Port-Olry; Vanuatu
+2026-10-24T15:45:47,-13.9412,165.1696,10,4.7,mb,238 km WNW of Port-Olry; Vanuatu
+2026-10-24T15:24:19,-54.0337,7.044,10,5.9,mwb,Bouvet Island region
+2026-10-24T15:19:25,-13.8724,165.448,10,4.9,mww,217 km NW of Port-Olry; Vanuatu
+2026-10-24T15:07:40,-13.8267,165.5148,10,4.8,mb,215 km NW of Port-Olry; Vanuatu
+2026-10-24T13:53:00,-13.7777,165.5398,10,4.8,mb,216 km NW of Port-Olry; Vanuatu
+2026-10-24T13:26:34,32.5629,93.694,10,4.6,mb,195 km NE of Nagqu; China
+2026-10-24T11:48:08,19.805,122.0872,10,4.7,mb,72 km S of Basco; Philippines
+2026-10-24T11:20:27,13.3207,51.5108,10,4.9,mb,148 km NNW of Kilmia; Yemen
+2026-10-24T11:14:00,-13.8212,165.7345,10,4.9,mb,196 km W of Sola; Vanuatu
+2026-10-24T09:38:49,-14.1348,165.8048,10,4.9,mb,169 km NW of Port-Olry; Vanuatu
+2026-10-24T09:07:00,-14.1064,165.2758,10,5,mb,219 km WNW of Port-Olry; Vanuatu
+2026-10-24T08:56:28,-13.9418,165.6471,10,5.9,mww,196 km NW of Port-Olry; Vanuatu
+2026-10-24T08:45:55,-13.9869,165.7108,10,4.7,mb,187 km NW of Port-Olry; Vanuatu
+2026-10-24T08:39:53,32.5629,94.048,10,5.3,mb,223 km ENE of Nagqu; China
+2026-10-24T08:33:48,53.5186,-165.0962,35,4.5,mwr,81 km SSE of Akutan; Alaska
+2026-10-24T08:29:20,43.3139,82.1076,10,4.9,mb,41 km SSE of Kax; China
+2026-10-24T08:28:02,-13.7972,165.6088,10,5.1,mb,209 km NW of Port-Olry; Vanuatu
+2026-10-24T08:22:46,-13.833,165.4664,10,5.1,mb,218 km NW of Port-Olry; Vanuatu
+2026-10-24T08:20:01,-13.805,165.4469,10,4.7,mb,222 km NW of Port-Olry; Vanuatu
+2026-10-24T06:58:03,-13.8532,165.7268,10,4.7,mb,195 km NW of Port-Olry; Vanuatu
+2026-10-24T06:52:04,-13.8777,165.4237,10,5,mb,219 km NW of Port-Olry; Vanuatu
+2026-10-24T06:43:09,-14.5918,167.3063,194.63,5.5,mww,55 km NNE of Port-Olry; Vanuatu
+2026-10-24T06:20:56,-13.8228,165.6213,10,4.6,mb,206 km NW of Port-Olry; Vanuatu
+2026-10-24T06:04:16,-14.1278,165.7535,10,5.3,mb,174 km NW of Port-Olry; Vanuatu
+2026-10-24T05:37:46,-14.051,165.8047,10,4.5,mb,175 km NW of Port-Olry; Vanuatu
+2026-10-24T05:35:54,-13.9786,165.7483,10,4.5,mb,184 km NW of Port-Olry; Vanuatu
+2026-10-24T05:23:40,-14.0833,165.6982,10,5.8,mb,182 km NW of Port-Olry; Vanuatu
+2026-10-24T05:10:34,-14.0054,165.3365,10,4.8,mb,219 km WNW of Port-Olry; Vanuatu
+2026-10-24T04:49:21,-13.8521,165.4673,10,5.1,mb,217 km NW of Port-Olry; Vanuatu
+2026-10-24T04:44:45,-14.165,165.8739,10,5,mb,161 km NW of Port-Olry; Vanuatu
+2026-10-24T04:19:38,-13.7325,165.551,10,5.3,mb,216 km W of Sola; Vanuatu
+2026-10-24T04:12:05,-13.9017,165.5967,10,5.8,mb,203 km NW of Port-Olry; Vanuatu
+2026-10-24T04:05:36,-13.9084,165.5627,10,5.7,mb,205 km NW of Port-Olry; Vanuatu
+2026-10-24T03:51:35,-14.1222,165.625,10,4.9,mb,186 km WNW of Port-Olry; Vanuatu
+2026-10-24T03:17:55,-13.8805,165.6161,10,5.2,mb,202 km NW of Port-Olry; Vanuatu
+2026-10-24T03:08:45,-14.1211,165.8052,10,5.1,mb,170 km NW of Port-Olry; Vanuatu
+2026-10-24T02:35:57,-14.0424,165.8666,10,6.3,mb,170 km NW of Port-Olry; Vanuatu
+2026-10-24T02:31:28,-14.0558,165.5455,10,6.9,mww,197 km WNW of Port-Olry; Vanuatu
+2026-10-24T00:27:44,-13.9871,165.6177,10,4.5,mb,195 km NW of Port-Olry; Vanuatu
+2026-10-24T00:07:56,32.5271,93.9004,10,4.9,mb,209 km ENE of Nagqu; China
+2026-10-23T23:08:25,53.7815,-169.4133,230.47,4.6,mb,100 km NNW of Nikolski; Alaska
+2026-10-23T22:42:51,-15.4328,168.2523,10,4.9,mb,115 km NE of Norsup; Vanuatu
+2026-10-23T22:24:16,54.2668,86.2951,10,4.8,mww,6 km ENE of Starobachaty; Russia
+2026-10-23T22:05:10,-13.8764,165.6172,10,5.1,mww,203 km NW of Port-Olry; Vanuatu
+2026-10-23T21:41:04,7.9163,127.1813,10,4.6,mb,73 km ENE of Kinablangan; Philippines
+2026-10-23T20:58:01,23.7861,121.9479,10,4.9,mb,40 km ESE of Hualien City; Taiwan
+2026-10-23T20:48:16,23.8528,121.929,13.82,4.9,mb,35 km ESE of Hualien City; Taiwan
+2026-10-23T20:37:41,32.4693,93.943,10,4.8,mb,209 km ENE of Nagqu; China
+2026-10-23T17:06:25,25.9295,95.6545,116.7,4.6,mb,91 km ESE of Tuensang; India
+2026-10-23T16:07:51,40.4159,142.572,38.14,5.1,mb,72 km ENE of Noda; Japan
+2026-10-23T15:32:13,38.8141,14.3074,10,4.7,mb,52 km WNW of Malfa; Italy
+2026-10-23T14:41:16,32.5642,94.1749,10,4.5,mb,233 km ENE of Nagqu; China
+2026-10-23T14:14:04,32.5717,93.9443,10,4.7,mb,215 km NE of Nagqu; China
+2026-10-23T13:55:36,38.7787,14.315,10,5.2,mww,50 km WNW of Malfa; Italy
+2026-10-23T12:24:24,-7.3421,128.4666,128.11,4.5,mb,207 km NE of Lospalos; Timor Leste
+2026-10-23T12:19:47,-17.6833,-178.9021,571.74,4.5,mb,193 km ENE of Levuka; Fiji
+2026-10-23T10:19:16,38.7199,14.152,10,5.7,mww,61 km WNW of Leni; Italy
+2026-10-23T09:51:39,38.7219,14.2527,10,4.9,mb,53 km WNW of Leni; Italy
+2026-10-23T09:09:36,6.5678,123.8685,591.29,4.5,mb,18 km WNW of Bantogon; Philippines
+2026-10-23T08:17:10,-61.6714,154.0786,10,4.5,mb,Balleny Islands region
+2026-10-23T03:12:33,-14.1715,165.6074,10,4.6,mb,184 km WNW of Port-Olry; Vanuatu
+2026-10-23T02:45:41,-21.3469,-66.5795,235.83,4.5,mb,58 km SW of Atocha; Bolivia
+2026-10-23T02:17:01,27.9986,100.6189,10,4.5,mb,18 km NNW of Yongning; China
+2026-10-23T00:09:35,-24.286,-67.3224,185.54,4.5,mb,102 km W of San Antonio de los Cobres; Argentina
+2026-10-22T21:37:56,-21.6653,-68.3401,141.88,4.6,mb,49 km S of Ollagüe; Chile
+2026-10-22T21:09:59,48.3802,154.9209,50.39,4.8,mb,269 km SSW of Severo-Kuril’sk; Russia
+2026-10-22T20:05:04,-5.728,152.2646,10,5,mb,153 km S of Kokopo; Papua New Guinea
+2026-10-22T19:06:56,-15.1269,-173.3304,23.41,4.9,mb,104 km NNE of Hihifo; Tonga
+2026-10-22T18:06:44,32.3707,93.9886,10,5,mb,207 km ENE of Nagqu; China
+2026-10-22T17:21:26,44.035,147.0825,76.31,4.8,mb,39 km NE of Shikotan; Russia
+2026-10-22T16:57:53,32.3207,93.8055,10,4.7,mb,190 km ENE of Nagqu; China
+2026-10-22T16:51:21,-22.564,-175.4438,35,4.8,mb,144 km SSW of ‘Ohonua; Tonga
+2026-10-22T16:50:16,32.4493,93.8798,10,4.5,mb,203 km ENE of Nagqu; China
+2026-10-22T16:45:00,32.4691,93.7403,10,4.6,mb,193 km NE of Nagqu; China
+2026-10-22T16:21:33,32.4918,93.9447,10,4.9,mb,210 km ENE of Nagqu; China
+2026-10-22T15:45:37,33.7966,86.2316,10,4.9,mb,western Xizang
+2026-10-22T15:27:48,40.1472,77.3556,10,4.7,mb,139 km ENE of Kashgar; China
+2026-10-22T15:12:04,32.4401,93.8669,10,5.2,mb,201 km ENE of Nagqu; China
+2026-10-22T14:33:40,32.3805,93.7797,18,7,mww,191 km ENE of Nagqu; China
+2026-10-22T12:22:57,-13.9085,165.6239,10,4.9,mb,200 km NW of Port-Olry; Vanuatu
+2026-10-22T10:57:52,-2.8037,102.1272,135.26,4.9,mb,85 km NNW of Curup; Indonesia
+2026-10-22T10:07:41,36.677,71.3996,174.51,4.6,mb,11 km W of Ashkāsham; Afghanistan
+2026-10-22T08:34:18,53.7958,160.2671,61.06,4.5,mb,136 km NE of Petropavlovsk-Kamchatsky; Russia
+2026-10-22T08:06:35,13.8474,145.2184,99.23,4.6,mb,49 km NE of Yigo Village; Guam
+2026-10-22T07:49:29,-62.4088,163.5214,10,4.8,mb,Balleny Islands region
+2026-10-22T05:23:59,-5.1295,152.2467,57.32,4.8,mb,86 km S of Kokopo; Papua New Guinea
+2026-10-22T04:44:17,56.9659,-34.0939,10,4.8,mww,Reykjanes Ridge
+2026-10-22T03:35:17,14.8614,-93.8388,49.13,4.6,mb,97 km SW of El Palmarcito; Mexico
+2026-10-22T00:25:38,-55.9673,-27.0602,60.91,5,mb,South Sandwich Islands region
+2026-10-21T21:58:47,56.8261,-34.1158,10,5.1,mb,Reykjanes Ridge
+2026-10-21T21:49:03,57.2319,-33.3392,10,4.5,mb,Reykjanes Ridge
+2026-10-21T21:38:54,56.7745,-34.1891,10,5.3,mww,Reykjanes Ridge
+2026-10-21T20:34:50,-19.7855,14.7284,10,4.9,mb,68 km NNW of Khorixas; Namibia
+2026-10-21T19:06:05,56.9507,-34.2256,10,5,mww,Reykjanes Ridge
+2026-10-21T18:41:04,-14.1213,165.5779,10,5,mb,190 km WNW of Port-Olry; Vanuatu
+2026-10-21T18:40:31,-14.1592,165.431,10,4.7,mb,202 km WNW of Port-Olry; Vanuatu
+2026-10-21T18:12:35,-52.8118,27.4604,10,5.1,mb,south of Africa
+2026-10-21T17:19:33,49.2528,158.0282,10,4.6,mb,208 km SE of Severo-Kuril’sk; Russia
+2026-10-21T15:22:33,-14.1338,165.3793,10,4.9,mb,208 km WNW of Port-Olry; Vanuatu
+2026-10-21T14:56:27,-14.105,165.5402,10,5,mww,194 km WNW of Port-Olry; Vanuatu
+2026-10-21T14:40:50,42.573,142.6247,94.11,4.7,mb,33 km NE of Shizunai-furukawachō; Japan
+2026-10-21T14:35:51,-14.0069,165.4684,10,4.9,mb,207 km WNW of Port-Olry; Vanuatu
+2026-10-21T12:03:56,53.4261,-163.4612,20.47,4.5,mwr,158 km S of False Pass; Alaska
+2026-10-21T11:24:16,-6.8385,-11.3498,10,4.9,mb,Ascension Island region
+2026-10-21T08:37:41,13.0297,125.5898,10,5.2,mb,68 km NE of Cabatuan; Philippines
+2026-10-21T07:44:16,-7.5619,128.1355,122.69,5.1,mb,164 km NE of Lospalos; Timor Leste
+2026-10-21T04:23:28,-14.035,165.8331,10,4.7,mb,173 km NW of Port-Olry; Vanuatu
+2026-10-21T01:20:02,4.5985,-82.7031,10,5,mww,south of Panama
+2026-10-21T01:04:29,35.7245,139.9836,90.27,4.5,mb,2 km N of Honchō; Japan
+2026-10-21T00:51:12,-22.6866,172.8841,10,4.7,mb,southeast of the Loyalty Islands
+2026-10-20T23:24:27,-25.502,179.592,529.78,4.9,mb,south of the Fiji Islands
+2026-10-20T23:16:44,37.3112,75.0164,68.92,4.6,mb,113 km NNE of Barishal; Pakistan
+2026-10-20T22:51:44,7.5632,-80.6085,10,4.5,mb,10 km S of La Mesa; Panama
+2026-10-20T20:03:26,-14.0479,165.6598,10,4.9,mb,187 km NW of Port-Olry; Vanuatu
+2026-10-20T19:53:59,46.2196,152.9149,28.75,4.7,mb,Kuril Islands
+2026-10-20T18:07:18,37.9575,-26.2588,10,5.1,mww,39 km W of Mosteiros; Portugal
+2026-10-20T17:18:36,6.0926,-82.6622,10,4.5,mb,215 km S of Burica; Panama
+2026-10-20T17:05:48,6.3226,-82.5693,10,5.4,mww,192 km S of Burica; Panama
+2026-10-20T16:29:43,-24.1803,-177.0103,109.55,4.8,mb,south of the Fiji Islands
+2026-10-20T16:29:38,4.0005,95.993,75.88,5,mww,21 km SW of Meulaboh; Indonesia
+2026-10-20T14:20:49,-5.3459,152.1448,57.37,4.5,mb,111 km S of Kokopo; Papua New Guinea
+2026-10-20T13:27:24,-3.7134,139.9987,10,4.5,mb,142 km SSW of Abepura; Indonesia
+2026-10-20T11:40:10,-13.991,165.7462,10,4.9,mb,184 km NW of Port-Olry; Vanuatu
+2026-10-20T10:40:40,54.6088,-160.3291,35,5,mwr,81 km S of Sand Point; Alaska
+2026-10-20T08:58:37,-15.1536,-178.4627,417.49,4.5,mb,100 km SSW of Alo; Wallis and Futuna
+2026-10-20T08:39:56,-13.9692,165.5875,10,4.9,mb,199 km NW of Port-Olry; Vanuatu
+2026-10-20T07:09:08,18.8377,145.5173,250.03,4.9,mb,Pagan region; Northern Mariana Islands
+2026-10-20T06:41:23,37.9037,95.6436,10,5.1,mb,263 km WSW of Yanglong; China
+2026-10-20T06:29:22,-13.857,165.5874,10,5.2,mww,206 km NW of Port-Olry; Vanuatu
+2026-10-20T06:04:19,11.7067,125.5048,10,4.6,mb,7 km SE of San Julian; Philippines
+2026-10-20T04:20:38,-13.9906,165.5892,16,6.3,mww,197 km NW of Port-Olry; Vanuatu
+2026-10-20T02:54:15,18.2529,146.0345,129.36,5,mb,Pagan region; Northern Mariana Islands
+2026-10-20T00:58:30,-13.9707,165.5846,10,4.8,mb,199 km NW of Port-Olry; Vanuatu
+2026-10-20T00:56:32,40.6471,84.1619,10,4.5,mb,157 km SE of Kuqa; China
+2026-10-20T00:55:13,-14.1105,165.2948,10,4.8,mb,217 km WNW of Port-Olry; Vanuatu
+2026-10-20T00:38:27,-14.0283,165.6147,10,5,mb,193 km NW of Port-Olry; Vanuatu
+2026-10-20T00:36:45,-14.0667,165.3379,10,4.5,mb,215 km WNW of Port-Olry; Vanuatu
+2026-10-19T22:42:47,-4.6083,152.2767,90.95,4.9,mb,29 km S of Kokopo; Papua New Guinea
+2026-10-19T21:43:35,48.2407,153.9413,91.42,4.5,mb,Kuril Islands
+2026-10-19T18:55:37,-14.0266,165.4974,10,5.7,mb,203 km WNW of Port-Olry; Vanuatu
+2026-10-19T18:52:36,-14.0371,165.5508,10,5.7,mww,198 km NW of Port-Olry; Vanuatu
+2026-10-19T18:27:46,-15.6727,-174.5697,156.8,4.8,mb,88 km WNW of Hihifo; Tonga
+2026-10-19T17:45:50,-56.3542,-27.0851,101.46,5.1,mb,South Sandwich Islands region
+2026-10-19T16:13:53,-23.5497,179.8713,536.11,4.6,mb,south of the Fiji Islands
+2026-10-19T15:35:36,37.838,73.1842,10,4.9,mb,77 km WSW of Murghob; Tajikistan
+2026-10-19T14:47:45,14.4536,-91.373,109.71,4.6,mb,5 km E of San José El Ídolo; Guatemala
+2026-10-19T14:44:24,64.5774,-17.5136,10,5.3,mww,116 km WNW of Höfn; Iceland
+2026-10-19T12:06:01,-8.1042,120.378,10,4.8,mb,56 km N of Ruteng; Indonesia
+2026-10-19T11:52:37,-13.9927,165.419,10,4.8,mb,212 km WNW of Port-Olry; Vanuatu
+2026-10-19T10:57:08,31.948,104.4577,10,5,mb,31 km NW of Jiangyou; China
+2026-10-19T10:40:47,-13.9158,165.3727,10,5.3,mb,221 km NW of Port-Olry; Vanuatu
+2026-10-19T10:40:21,-14.0378,165.5687,10,5.4,mb,196 km NW of Port-Olry; Vanuatu
+2026-10-19T10:10:56,-8.0866,120.1454,10,4.7,mb,53 km NNE of Labuan Bajo; Indonesia
+2026-10-19T09:45:56,-8.1064,120.1872,10,4.9,mb,54 km NE of Labuan Bajo; Indonesia
+2026-10-19T09:25:14,-12.9533,167.046,10,4.9,mb,115 km NNW of Sola; Vanuatu
+2026-10-19T09:00:39,2.4339,126.7168,49.01,4.7,mb,163 km WNW of Tobelo; Indonesia
+2026-10-19T08:54:18,-13.9561,165.5558,10,4.9,mb,202 km NW of Port-Olry; Vanuatu
+2026-10-19T08:51:57,45.481,26.2168,124.75,4.5,mb,2 km W of Lunca Jariștei; Romania
+2026-10-19T08:21:47,-14.155,165.3343,10,5.2,mb,211 km WNW of Port-Olry; Vanuatu
+2026-10-19T08:12:38,-14.1387,165.6383,10,5.4,mb,184 km WNW of Port-Olry; Vanuatu
+2026-10-19T07:55:36,-13.9824,165.6995,10,5.3,mww,188 km NW of Port-Olry; Vanuatu
+2026-10-19T07:49:04,-14.0533,165.6761,10,6,mww,186 km NW of Port-Olry; Vanuatu
+2026-10-19T07:33:35,-24.2627,-67.1004,170.26,4.5,mb,79 km W of San Antonio de los Cobres; Argentina
+2026-10-19T07:20:52,-14.042,165.4874,10,4.9,mb,203 km WNW of Port-Olry; Vanuatu
+2026-10-19T07:00:02,-13.9517,165.384,10,4.9,mb,218 km WNW of Port-Olry; Vanuatu
+2026-10-19T06:15:13,-6.3365,129.9289,157.77,4.5,mb,Banda Sea
+2026-10-19T05:18:36,11.1229,-86.4815,44.02,4.9,mb,68 km WSW of San Juan del Sur; Nicaragua
+2026-10-18T23:51:16,3.8112,128.2156,10,4.6,mb,231 km N of Tobelo; Indonesia
+2026-10-18T22:31:43,-5.4388,152.6203,10,5.1,mww,127 km SSE of Kokopo; Papua New Guinea
+2026-10-18T22:06:14,-5.6614,151.8717,10,4.7,mb,152 km SSW of Kokopo; Papua New Guinea
+2026-10-18T21:50:46,10.9,-86.8693,10,4.6,mb,105 km SSW of Masachapa; Nicaragua
+2026-10-18T19:32:28,-21.541,-174.2956,10,5.2,mb,71 km ESE of ‘Ohonua; Tonga
+2026-10-18T17:28:46,12.9409,144.7428,44.44,4.6,mb,36 km S of Inarajan Village; Guam
+2026-10-18T16:12:55,7.7244,-81.3297,10,4.5,mb,0 km NE of Río Grande; Panama
+2026-10-18T15:35:47,17.2531,-63.0065,149.95,4.7,mb,20 km SW of Sandy Point Town; Saint Kitts and Nevis
+2026-10-18T14:30:07,1.452,66.9867,10,4.6,mb,Carlsberg Ridge
+2026-10-18T12:42:22,-30.1265,-177.3838,10,4.5,mb,Kermadec Islands; New Zealand
+2026-10-18T09:30:38,-2.7505,67.981,10,4.6,mb,Carlsberg Ridge
+2026-10-18T08:00:05,-8.0974,120.2865,10,5.2,mb,60 km NNW of Ruteng; Indonesia
+2026-10-18T07:37:26,-6.9605,154.7886,10,4.6,mb,104 km SW of Panguna; Papua New Guinea
+2026-10-18T00:28:29,-6.5103,146.0489,124.07,4.8,mb,31 km SE of Kainantu; Papua New Guinea
+2026-10-17T20:51:41,-17.4623,-173.718,51.18,4.7,mb,134 km NNE of Neiafu; Tonga
+2026-10-17T18:48:10,15.1576,108.0258,10,4.5,mb,29 km SW of Trà My; Vietnam
+2026-10-17T16:52:45,-21.1752,-67.2144,189.46,4.6,mb,88 km SSW of Uyuni; Bolivia
+2026-10-17T13:59:34,14.0469,-92.8552,10,5.2,mww,86 km SW of Brisas Barra de Suchiate; Mexico
+2026-10-17T12:46:16,-9.412,118.4549,10,4.6,mb,86 km W of Tambolaka; Indonesia
+2026-10-17T11:04:40,12.0452,147.9095,10,4.6,mb,Mariana Islands region
+2026-10-17T09:07:41,-8.7296,124.322,96.13,4.6,mb,52 km N of Pante Makasar; Timor Leste
+2026-10-17T08:59:51,-15.5117,168.2516,10,4.8,mb,110 km NE of Norsup; Vanuatu
+2026-10-17T07:40:02,-13.3461,167.0474,145.26,4.5,mb,80 km NW of Sola; Vanuatu
+2026-10-17T07:20:48,-8.1086,120.2824,10,4.5,mb,59 km NNW of Ruteng; Indonesia
+2026-10-17T05:06:57,28.0179,66.1708,10,5.7,mww,48 km WNW of Khuzdar; Pakistan
+2026-10-17T04:19:05,-16.0441,-177.7283,439.39,4.8,mb,196 km SSE of Alo; Wallis and Futuna
+2026-10-17T01:03:00,14.0576,-93.2479,10,4.9,mb,115 km SW of Puerto Madero; Mexico
+2026-10-16T23:57:50,38.305,20.6863,10,4.6,mb,6 km NNE of Sámi; Greece
+2026-10-16T22:41:03,7.6127,-80.9354,10,4.6,mww,12 km SSE of Tebario; Panama
+2026-10-16T21:30:26,27.7264,57.3327,10,4.5,mb,70 km NNE of Mīnāb; Iran
+2026-10-16T21:26:37,-23.6209,-179.7966,535.36,4.5,mb,south of the Fiji Islands
+2026-10-16T19:34:10,1.2955,-85.2725,10,5.2,mww,off the coast of Ecuador
+2026-10-16T16:17:25,-5.4619,35.0134,10,4.6,mb,43 km N of Kilimatinde; Tanzania
+2026-10-16T15:08:47,51.2717,159.2572,10,4.6,mb,193 km E of Ozernovskiy; Russia
+2026-10-16T15:06:35,-18.4509,-175.4778,256.9,4.5,mb,159 km W of Neiafu; Tonga
+2026-10-16T14:09:54,-49.7816,163.6559,10,4.9,mb,Auckland Islands; New Zealand region
+2026-10-16T12:18:25,6.0268,125.7789,10,4.7,mb,10 km SE of Lamitan; Philippines
+2026-10-16T11:57:19,12.328,144.1189,10,4.9,mb,119 km SSW of Merizo Village; Guam
+2026-10-16T11:39:44,15.2777,-92.7881,108.91,4.8,mb,7 km WSW of Soconusco; Mexico
+2026-10-16T09:13:44,7.8392,126.799,73.71,4.9,mb,31 km ENE of Kinablangan; Philippines
+2026-10-16T09:04:28,-55.2392,-126.4961,10,4.8,mb,southern East Pacific Rise
+2026-10-16T08:59:30,27.6863,57.3424,10,4.5,mb,66 km NNE of Mīnāb; Iran
+2026-10-16T08:55:33,27.6891,57.2959,10,4.5,mb,65 km NNE of Mīnāb; Iran
+2026-10-16T04:42:40,13.934,-92.8623,10,4.7,mb,95 km SW of Brisas Barra de Suchiate; Mexico
+2026-10-16T03:35:31,51.9848,157.2701,135,6.9,mww,76 km NE of Ozernovskiy; Russia
+2026-10-15T20:39:23,13.8718,-91.908,35,4.5,mb,46 km S of Champerico; Guatemala
+2026-10-15T14:59:53,51.4099,159.6809,10,4.9,mb,190 km SSE of Vilyuchinsk; Russia
+2026-10-15T13:31:36,7.3975,-80.0983,10,4.5,mb,13 km SSE of Los Asientos; Panama
+2026-10-15T13:29:31,-15.2498,-173.3236,10,5.2,mb,92 km NNE of Hihifo; Tonga
+2026-10-15T13:16:26,52.0024,-169.576,10,4.7,mb,114 km SSW of Nikolski; Alaska
+2026-10-15T13:06:51,-13.8896,166.0591,10,5.2,mb,161 km W of Sola; Vanuatu
+2026-10-15T11:16:43,0.9022,-85.3587,10,5.4,mww,off the coast of Ecuador
+2026-10-15T11:07:01,64.22,-152.746,4.5,5.6,ml,43 km NNW of Lake Minchumina; Alaska
+2026-10-15T08:50:55,-27.8222,64.2871,10,4.7,mb,Southwest Indian Ridge
+2026-10-15T05:36:06,11.9332,143.8365,10,4.7,mb,172 km SSW of Merizo Village; Guam
+2026-10-15T05:25:31,-38.5782,175.3818,283.84,5.3,mww,46 km SSE of Otorohanga; New Zealand
+2026-10-15T04:41:12,19.2179,121.2525,10,4.6,mb,67 km N of Namuac; Philippines
+2026-10-15T03:36:29,-13.409,-172.0686,13.21,5.1,mb,36 km E of Safotu; Samoa
+2026-10-15T03:36:08,-13.4327,-172.1174,13.47,4.8,mb,30 km E of Safotu; Samoa
+2026-10-14T23:20:59,54.0004,158.1848,183.5,4.5,mb,82 km SSW of Mil’kovo; Russia
+2026-10-14T14:17:21,-0.3247,-19.2153,10,4.6,mb,central Mid-Atlantic Ridge
+2026-10-14T10:49:47,-20.9899,-178.7711,585.07,5.9,mww,Fiji region
+2026-10-14T09:16:18,-5.4767,35.0428,10,4.6,mb,42 km NNE of Kilimatinde; Tanzania
+2026-10-14T06:27:06,-5.443,152.2617,35,4.9,mb,121 km S of Kokopo; Papua New Guinea
+2026-10-14T05:09:35,7.5657,-80.6021,10,4.7,mb,10 km S of La Mesa; Panama
+2026-10-14T03:11:09,-20.3552,-70.2699,44.91,4.9,mwr,16 km WSW of La Tirana; Chile
+2026-10-14T03:02:14,5.0056,-27.5843,10,4.8,mb,North Atlantic Ocean
+2026-10-14T02:59:27,-5.4957,152.3942,10,4.7,mb,128 km S of Kokopo; Papua New Guinea
+2026-10-14T02:12:14,-4.4488,152.9436,10,4.6,mb,75 km E of Kokopo; Papua New Guinea
+2026-10-14T00:36:45,-29.2194,-71.9288,10,4.6,mwr,99 km NW of Coquimbo; Chile
+2026-10-14T00:30:47,-29.2005,-71.8077,21.98,4.7,mwr,94 km NNW of Coquimbo; Chile
+2026-10-13T21:47:07,-5.4537,152.531,10,4.6,mb,126 km SSE of Kokopo; Papua New Guinea
+2026-10-13T21:24:20,6.747,-72.9793,161.96,4.8,mb,0 km SW of Cepitá; Colombia
+2026-10-13T21:10:15,-5.507,152.4264,10,4.5,mb,129 km S of Kokopo; Papua New Guinea
+2026-10-13T21:07:02,-49.6559,125.0479,10,4.5,mb,western Indian-Antarctic Ridge
+2026-10-13T18:45:03,-5.4965,152.1501,21.76,6,mww,128 km S of Kokopo; Papua New Guinea
+2026-10-13T16:28:15,-5.4453,152.1025,36.99,5.1,mb,123 km S of Kokopo; Papua New Guinea
+2026-10-13T15:21:44,5.3478,125.5183,65.7,4.8,mb,8 km SE of Sarangani; Philippines
+2026-10-13T14:36:12,-5.5103,152.1283,29.79,5.3,mb,129 km S of Kokopo; Papua New Guinea
+2026-10-13T12:51:32,7.7902,-81.6085,10,4.5,mb,26 km SSW of Zapotillo; Panama
+2026-10-13T12:23:07,-0.4085,-19.4308,10,6.8,mww,central Mid-Atlantic Ridge
+2026-10-13T12:05:41,51.6162,159.9496,10,4.9,mb,180 km SE of Vilyuchinsk; Russia
+2026-10-13T09:48:28,-9.9266,118.8246,35,4.5,mb,71 km SW of Tambolaka; Indonesia
+2026-10-13T09:41:12,38.5166,68.8922,10,4.7,mb,9 km NE of Boshkengash; Tajikistan
+2026-10-13T08:38:28,-28.556,-12.5205,10,5.3,mb,southern Mid-Atlantic Ridge
+2026-10-13T08:15:04,38.8294,104.9421,10,4.6,mb,63 km W of Bayan Hot; China
+2026-10-13T06:39:04,7.7685,-81.4531,10,4.7,mb,14 km WNW of Río Grande; Panama
+2026-10-13T06:01:24,19.6853,120.7047,10,4.7,mb,124 km N of Pagudpud; Philippines
+2026-10-13T05:44:46,0.1685,-19.8598,10,6.7,mww,central Mid-Atlantic Ridge
+2026-10-13T04:00:15,-9.4473,113.8887,10,5.1,mb,119 km SSW of Gambiran Satu; Indonesia
+2026-10-13T02:48:02,7.582,-80.5888,10,4.7,mb,9 km SSE of La Mesa; Panama
+2026-10-13T02:16:57,-58.1423,-26.2058,139.58,4.5,mb,South Sandwich Islands region
+2026-10-13T00:02:01,7.7703,-81.5517,10,4.6,mb,24 km WNW of Río Grande; Panama
+2026-10-13T00:01:22,-56.0013,-27.617,110.32,4.5,mb,South Sandwich Islands region
+2026-10-12T23:45:13,7.8098,-81.6053,10,4.5,mb,24 km SSW of Zapotillo; Panama
+2026-10-12T23:36:46,7.7261,-81.5153,10,4.9,mb,19 km W of Río Grande; Panama
+2026-10-12T23:27:50,7.7817,-81.3767,10,5,mb,8 km NW of Río Grande; Panama
+2026-10-12T23:20:36,7.7098,-81.4715,11,6.1,mww,15 km W of Río Grande; Panama
+2026-10-12T22:18:12,35.8368,106.2624,10,4.6,mb,18 km S of Guyuan; China
+2026-10-12T21:48:54,7.948,-81.4661,10,4.5,mb,8 km SE of Zapotillo; Panama
+2026-10-12T21:43:30,7.8377,-81.5063,10,4.5,mb,18 km SW of Calidonia; Panama
+2026-10-12T20:05:25,7.7181,-81.5677,10,4.8,mww,25 km W of Río Grande; Panama
+2026-10-12T18:30:19,-16.5382,67,10,4.6,mb,Mid-Indian Ridge
+2026-10-12T18:27:41,-16.294,67.1096,10,4.7,mb,Mid-Indian Ridge
+2026-10-12T18:17:18,-33.721,-71.8113,33.63,4.8,mb,23 km SW of San Antonio; Chile
+2026-10-12T15:44:33,48.297,154.9229,35,4.9,mb,278 km SSW of Severo-Kuril’sk; Russia
+2026-10-12T15:37:21,10.1601,93.0837,91.33,4.6,mb,170 km SSE of Port Blair; India
+2026-10-12T14:29:53,51.4459,174.8697,10,4.6,mb,193 km SE of Attu Station; Alaska
+2026-10-12T13:44:41,-16.2852,67.0911,10,4.8,mb,Mid-Indian Ridge
+2026-10-12T13:17:18,7.4228,-80.5089,10,4.5,mb,7 km WNW of Tonosí; Panama
+2026-10-12T11:58:08,-9.152,113.0997,55.22,4.6,mb,100 km SSW of Kencong; Indonesia
+2026-10-12T11:28:43,-8.873,67.3909,10,5.4,mww,Mid-Indian Ridge
+2026-10-12T08:59:14,0.6834,125.9293,49.22,4.6,mb,122 km SE of Bitung; Indonesia
+2026-10-12T08:30:08,-8.237,128.9661,22.43,4.7,mb,219 km E of Lospalos; Timor Leste
+2026-10-12T07:16:06,7.6987,-80.9143,10,4.5,mb,7 km ESE of Tebario; Panama
+2026-10-12T05:28:09,-8.3245,112.2189,121.1,4.6,mb,25 km SSE of Blitar; Indonesia
+2026-10-12T05:15:50,-25.1916,179.9814,470.83,4.5,mb,south of the Fiji Islands
+2026-10-12T04:38:11,-18.5748,-175.1104,179.92,5.5,mww,119 km W of Neiafu; Tonga
+2026-10-12T03:44:58,42.4505,144.2286,77.26,4.5,mb,58 km SSE of Shiranuka; Japan
+2026-10-12T03:04:13,39.192,72.1794,28.98,4.5,mb,40 km S of Daroot-Korgon; Kyrgyzstan
+2026-10-12T02:22:29,7.6112,-80.0698,10,4.5,mb,7 km ENE of Lajamina; Panama
+2026-10-12T01:59:24,-49.9461,-114.2488,10,4.8,mb,southern East Pacific Rise
+2026-10-12T01:28:20,24.7203,94.6022,78.18,4.8,mb,56 km E of Yairipok; India
+2026-10-12T00:53:12,25.1768,141.0601,201.34,4.6,mb,Volcano Islands; Japan region
+2026-10-11T23:20:35,12.6455,-89.7826,35,4.5,mb,104 km S of Acajutla; El Salvador
+2026-10-11T22:40:24,7.7981,-81.1144,10,4.6,mb,4 km N of Leones Arriba; Panama
+2026-10-11T22:06:26,-49.849,-114.3249,10,4.9,mb,southern East Pacific Rise
+2026-10-11T21:53:47,-50.4203,-112.8966,10,4.9,mb,southern East Pacific Rise
+2026-10-11T21:34:53,0.5303,121.7195,110.24,5.2,mww,149 km W of Gorontalo; Indonesia
+2026-10-11T21:19:20,7.7047,-81.586,10,4.5,mb,27 km W of Río Grande; Panama
+2026-10-11T19:44:02,13.7557,145.179,72.09,4.5,mb,39 km NE of Yigo Village; Guam
+2026-10-11T18:47:57,-3.1323,130.6537,10,4.6,mb,184 km W of Fakfak; Indonesia
+2026-10-11T18:06:35,-19.3844,-172.7162,10,4.7,mb,156 km ESE of Neiafu; Tonga
+2026-10-11T17:11:29,7.7084,-81.6209,10,4.8,mb,31 km W of Río Grande; Panama
+2026-10-11T17:08:25,-4.562,35.0117,10,4.5,mb,17 km E of Mtinko; Tanzania
+2026-10-11T17:00:29,49.7885,155.7863,83.39,5.2,mww,101 km SSW of Severo-Kuril’sk; Russia
+2026-10-11T16:48:02,-4.4024,34.5941,10,4.7,mb,18 km NNW of Igugunu; Tanzania
+2026-10-11T16:47:45,-4.714,35.2899,10,4.5,mb,23 km SSW of Katesh; Tanzania
+2026-10-11T16:24:25,35.5747,140.4517,66.92,4.7,mb,4 km SE of Narutō; Japan
+2026-10-11T14:07:20,-7.0483,155.7498,31,6.2,mww,86 km SSE of Panguna; Papua New Guinea
+2026-10-11T13:42:58,-16.8578,-72.8212,30.9,5.3,mb,28 km SSW of Camaná; Peru
+2026-10-11T12:13:18,23.5015,126.1264,10,4.8,mww,165 km SSE of Miyakojima; Japan
+2026-10-11T11:18:27,53.0788,159.8624,68.68,4.6,mb,82 km E of Petropavlovsk-Kamchatsky; Russia
+2026-10-11T10:05:41,-20.3859,-177.6638,512.92,4.6,mb,260 km WNW of Houma; Tonga
+2026-10-11T08:13:57,7.5272,-80.2788,10,4.5,mb,4 km E of Nuario; Panama
+2026-10-11T07:43:45,24.1877,142.4986,71.98,4.5,mb,Volcano Islands; Japan region
+2026-10-11T07:28:52,-23.6807,179.9776,547.23,4.5,mb,south of the Fiji Islands
+2026-10-11T05:07:57,-14.7461,168.0078,10,4.6,mb,105 km ENE of Port-Olry; Vanuatu
+2026-10-11T03:30:17,-8.6161,106.526,10,5.2,mb,180 km S of Pelabuhanratu; Indonesia
+2026-10-11T02:35:35,5.4706,126.6164,121.25,4.6,mb,109 km SSE of Pondaguitan; Philippines
+2026-10-11T01:50:52,7.5139,-80.4283,10,5,mb,3 km NW of Flores; Panama
+2026-10-11T00:06:09,7.8093,-81.472,10,4.6,mb,18 km WNW of Río Grande; Panama
+2026-10-10T21:38:09,-5.403,102.5418,29.58,4.5,mb,171 km SSW of Pagar Alam; Indonesia
+2026-10-10T21:34:02,-37.1165,-95.2667,10,5.3,mww,southeast of Easter Island
+2026-10-10T20:35:48,-31.2348,-178.9752,117.71,4.9,mb,Kermadec Islands region
+2026-10-10T19:15:54,-35.2765,-17.1143,10,4.6,mb,southern Mid-Atlantic Ridge
+2026-10-10T16:05:42,7.4596,-80.4282,13.52,4.7,mww,2 km WNW of El Cacao; Panama
+2026-10-10T15:58:19,7.6231,-81.0112,10,4.8,mww,11 km SSW of Tebario; Panama
+2026-10-10T15:10:20,-3.7668,151.9827,10,4.6,mb,51 km NNW of Rabaul; Papua New Guinea
+2026-10-10T14:59:23,7.8256,-81.3036,10,4.5,mb,5 km WNW of Guarumal; Panama
+2026-10-10T14:51:45,7.5178,-80.6744,10,4.5,mb,10 km NNW of El Cortezo; Panama
+2026-10-10T13:46:56,7.5187,-80.5165,10,4.8,mww,12 km NE of La Tronosa; Panama
+2026-10-10T13:40:44,-22.071,-179.5886,587.39,4.6,mb,south of the Fiji Islands
+2026-10-10T13:22:13,7.5481,-80.166,10,4.5,mb,4 km NW of Los Asientos; Panama
+2026-10-10T12:21:02,-19.9396,-177.5079,557.37,4.6,mb,267 km WNW of Houma; Tonga
+2026-10-10T11:28:54,7.9046,-82.7117,10,4.5,mb,22 km SE of Burica; Panama
+2026-10-10T10:38:40,7.4313,-80.4578,10,4.5,mb,3 km NW of Tonosí; Panama
+2026-10-10T10:35:11,7.6876,-81.3493,10,4.8,mb,3 km SSW of Río Grande; Panama
+2026-10-10T09:42:58,-2.8649,141.5299,27.17,4.7,mb,32 km SE of Vanimo; Papua New Guinea
+2026-10-10T08:38:50,-15.397,-173.7816,79.42,4.5,mb,61 km N of Hihifo; Tonga
+2026-10-10T07:13:30,7.6182,-80.5348,10,4.6,mb,6 km SSE of Llano de Piedra; Panama
+2026-10-10T06:47:49,7.4558,-79.9613,10,4.5,mb,10 km SE of Pedasí; Panama
+2026-10-10T06:30:03,7.2997,-79.9687,10,4.9,mb,26 km SSE of Pedasí; Panama
+2026-10-10T06:27:09,7.2969,-79.9827,10,4.7,mb,26 km S of Pedasí; Panama
+2026-10-10T06:18:55,7.3663,-80.3171,10,4.9,mb,10 km SSW of Cañas; Panama
+2026-10-10T06:16:32,7.3167,-79.9478,10,4.5,mb,25 km SSE of Pedasí; Panama
+2026-10-10T05:45:59,5.267,-75.6127,115.14,4.5,mb,6 km WSW of Filadelfia; Colombia
+2026-10-10T05:32:01,1.6248,126.3886,10,5,mb,141 km E of Bitung; Indonesia
+2026-10-10T04:33:02,7.5644,-80.4954,10,4.5,mb,10 km SSW of Mogollón; Panama
+2026-10-10T04:14:01,7.4777,-80.5728,10,6,mww,4 km NNE of La Tronosa; Panama
+2026-10-10T04:12:39,7.5522,-80.5764,10,4.5,mb,12 km S of Llano de Piedra; Panama
+2026-10-10T03:58:18,13.843,145.0986,111.16,5.3,mb,40 km NE of Yigo Village; Guam
+2026-10-10T03:56:16,7.4964,-80.6181,10,4.5,mb,7 km NNW of La Tronosa; Panama
+2026-10-10T02:43:38,7.6758,-81.0845,10,4.5,mb,9 km SSE of Leones Arriba; Panama
+2026-10-10T02:26:33,7.4652,-80.4515,10,5,mb,5 km WSW of Flores; Panama
+2026-10-10T02:00:42,1.4159,126.2738,10,5.1,mb,127 km E of Bitung; Indonesia
+2026-10-10T01:35:48,7.71,-81.366,10,4.5,mb,3 km WSW of Río Grande; Panama
+2026-10-10T01:11:47,7.4804,-80.5132,10,4.7,mb,9 km ENE of La Tronosa; Panama
+2026-10-10T00:51:48,7.5164,-80.5568,10,4.6,mb,9 km NNE of La Tronosa; Panama
+2026-10-10T00:47:02,54.0661,86.4114,10,4.7,mb,7 km S of Trudarmeyskiy; Russia
+2026-10-10T00:38:58,-21.2633,168.6507,10,4.7,mb,85 km ENE of Tadine; New Caledonia
+2026-10-10T00:03:04,7.4053,-80.2957,10,4.8,mb,5 km SW of Cañas; Panama
+2026-10-09T23:57:38,7.7378,-81.4599,10,4.7,mb,14 km W of Río Grande; Panama
+2026-10-09T23:54:22,7.1444,-79.8903,10,4.5,mb,45 km SSE of Pedasí; Panama
+2026-10-09T23:23:13,7.6651,-81.4005,10,4.9,mb,9 km SW of Río Grande; Panama
+2026-10-09T23:12:37,7.4366,-80.0968,10,5.4,mb,9 km SSE of Los Asientos; Panama
+2026-10-09T23:10:02,7.3962,-80.5284,10,5,mb,8 km ESE of La Tronosa; Panama
+2026-10-09T21:52:21,7.7447,-81.1937,10,4.5,mb,8 km W of Leones Arriba; Panama
+2026-10-09T21:47:49,7.7641,-81.3337,10,4.6,mb,4 km N of Río Grande; Panama
+2026-10-09T21:41:52,7.4259,-80.5982,10,4.5,mb,1 km SW of La Tronosa; Panama
+2026-10-09T21:19:16,52.0139,157.6722,78.19,4.6,mb,99 km NE of Ozernovskiy; Russia
+2026-10-09T21:05:25,7.6851,-81.4864,10,4.9,mb,17 km WSW of Río Grande; Panama
+2026-10-09T20:54:56,7.8108,-81.4335,10,4.9,mb,14 km NW of Río Grande; Panama
+2026-10-09T20:42:08,7.7378,-81.5023,10,5,mb,18 km W of Río Grande; Panama
+2026-10-09T20:41:04,7.7723,-81.084,10,5,mb,4 km ENE of Leones Arriba; Panama
+2026-10-09T20:25:40,7.7013,-81.444,24.04,6.6,mww,12 km W of Río Grande; Panama
+2026-10-09T20:21:37,7.4722,-80.494,10,5,mb,9 km NW of Tonosí; Panama
+2026-10-09T20:20:22,7.5544,-81.0291,10,4.9,mb,19 km SSW of Tebario; Panama
+2026-10-09T20:20:09,-5.4312,152.1103,50.54,4.7,mb,121 km S of Kokopo; Papua New Guinea
+2026-10-09T19:48:55,7.6406,-81.275,10,5.2,mb,10 km SE of Río Grande; Panama
+2026-10-09T19:45:58,7.5448,-80.1336,10,4.8,mb,2 km N of Los Asientos; Panama
+2026-10-09T19:42:50,7.5554,-80.2145,10,4.5,mb,5 km N of Oria Arriba; Panama
+2026-10-09T19:32:19,7.5147,-80.5899,10,4.7,mb,8 km N of La Tronosa; Panama
+2026-10-09T19:17:22,7.6086,-81.0415,25.96,4.8,mb,14 km SSW of Tebario; Panama
+2026-10-09T19:04:49,7.6504,-81.2645,10,5,mb,10 km SE of Río Grande; Panama
+2026-10-09T18:54:18,-21.0573,-173.9973,10,4.6,mb,104 km ENE of ‘Ohonua; Tonga
+2026-10-09T18:50:12,7.3504,-80.1178,10,5,mb,18 km S of Los Asientos; Panama
+2026-10-09T18:47:04,7.5783,-81.0943,10,5,mb,19 km S of Leones Arriba; Panama
+2026-10-09T18:42:26,7.6218,-81.2534,10,5,mb,13 km SE of Río Grande; Panama
+2026-10-09T18:37:46,7.4362,-80.4012,10,5.8,mb,1 km S of El Cacao; Panama
+2026-10-09T18:37:16,7.4857,-80.6506,10,5,mb,6 km NNW of El Cortezo; Panama
+2026-10-09T18:37:02,7.4077,-80.5752,10,4.5,mb,3 km SSE of La Tronosa; Panama
+2026-10-09T18:33:23,7.7221,-80.9234,10,4.5,mb,5 km E of Tebario; Panama
+2026-10-09T18:30:48,7.9311,-81.2575,10,4.7,mb,6 km SW of Utirá; Panama
+2026-10-09T18:26:41,7.7204,-80.7328,10,4.6,mb,1 km NE of Quebrada del Rosario; Panama
+2026-10-09T18:22:15,7.586,-80.2885,10,5.5,mb,3 km SW of Bajo Corral; Panama
+2026-10-09T18:21:07,7.7024,-80.2789,10,4.7,mb,2 km SSE of Peña Blanca; Panama
+2026-10-09T18:20:13,7.4845,-81.0791,10,4.6,mb,21 km WNW of Quebro; Panama
+2026-10-09T18:18:48,7.3862,-80.1367,10,4.9,mb,14 km S of Los Asientos; Panama
+2026-10-09T18:17:38,7.6024,-80.7343,10,4.8,mb,8 km WSW of Pitaloza Arriba; Panama
+2026-10-09T18:16:47,7.6524,-80.6018,10,5.1,mb,2 km ESE of La Mesa; Panama
+2026-10-09T18:14:42,7.6477,-80.9173,10,4.5,mb,10 km SE of Tebario; Panama
+2026-10-09T18:13:10,7.5197,-80.4638,10,4.7,mb,7 km WNW of Flores; Panama
+2026-10-09T18:12:44,7.3502,-80.3467,10,4.6,mb,12 km ESE of Tonosí; Panama
+2026-10-09T18:09:34,7.7143,-80.9148,10,4.6,mb,6 km E of Tebario; Panama
+2026-10-09T18:09:09,7.4461,-80.7984,10,4.8,mb,9 km E of Quebro; Panama
+2026-10-09T18:08:20,7.3934,-80.9127,10,4.8,mb,5 km SSW of Quebro; Panama
+2026-10-09T18:06:30,7.5055,-80.847,10,5.1,mb,8 km NNE of Quebro; Panama
+2026-10-09T18:02:43,7.6489,-81.7627,10,5.4,mb,47 km SSW of Puerto Vidal; Panama
+2026-10-09T18:01:50,7.6259,-79.9113,10,5.2,mb,16 km NE of Pedasí; Panama
+2026-10-09T17:56:06,7.5868,-80.769,12.65,7.7,mww,12 km WSW of Pitaloza Arriba; Panama
+2026-10-09T17:09:04,51.8952,160.6987,10,4.8,mb,191 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-10-09T16:59:31,52.1755,160.2999,10,4.7,mb,150 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-10-09T15:18:58,-24.7006,179.8009,538.35,4.6,mb,south of the Fiji Islands
+2026-10-09T14:49:42,-60.8806,154.1387,10,5.9,mww,west of Macquarie Island
+2026-10-09T13:51:42,-15.5313,168.1618,10,5.2,mww,101 km NE of Norsup; Vanuatu
+2026-10-09T13:24:16,-30.9068,59.1423,10,4.6,mb,Southwest Indian Ridge
+2026-10-09T12:33:43,11.5951,-86.0613,165.66,4.8,mb,17 km S of Nandaime; Nicaragua
+2026-10-09T10:22:14,-19.9128,-68.7905,123.83,5.1,mb,72 km SSW of Colchane; Chile
+2026-10-09T09:47:47,-1.8867,100.2717,40.82,4.9,mb,77 km ENE of Tuapejat; Indonesia
+2026-10-09T09:29:18,35.3331,-35.5737,10,4.8,mb,northern Mid-Atlantic Ridge
+2026-10-09T09:17:18,13.2209,120.7766,10,4.6,mb,17 km NNE of Santa Cruz; Philippines
+2026-10-09T08:27:10,-17.9847,-179.7273,642.62,4.8,mb,101 km E of Levuka; Fiji
+2026-10-09T08:11:46,-17.6193,-178.3301,554.28,4.5,mb,254 km ENE of Levuka; Fiji
+2026-10-09T05:17:04,-24.309,-177.334,130.36,4.9,mb,south of the Fiji Islands
+2026-10-09T05:11:04,0.7587,125.9365,40.05,5.2,mb,117 km SE of Bitung; Indonesia
+2026-10-09T04:46:52,35.1305,23.4011,44.32,4.6,mb,27 km WSW of Palaióchora; Greece
+2026-10-09T04:21:52,30.3242,102.9492,10,4.6,mb,37 km N of Ya'an; China
+2026-10-08T21:49:30,31.0228,-41.7684,10,4.6,mb,northern Mid-Atlantic Ridge
+2026-10-08T21:34:23,30.5204,-41.8428,10,4.9,mb,northern Mid-Atlantic Ridge
+2026-10-08T20:59:30,30.5774,-41.8655,10,5.1,mww,northern Mid-Atlantic Ridge
+2026-10-08T18:31:58,30.757,140.6371,47.27,4.7,mb,Izu Islands; Japan region
+2026-10-08T18:09:22,-15.4732,168.4281,10,4.5,mb,128 km ENE of Norsup; Vanuatu
+2026-10-08T18:06:02,-9.1354,120.3012,104.92,4.8,mb,57 km N of Waingapu; Indonesia
+2026-10-08T15:23:46,-3.4889,101.5755,41.56,4.7,mb,84 km WNW of Bengkulu; Indonesia
+2026-10-08T14:11:53,-9.9475,122.3512,32.92,4.8,mb,115 km NW of Baa; Indonesia
+2026-10-08T10:07:28,-18.0147,-178.4545,602.27,5.1,mb,236 km E of Levuka; Fiji
+2026-10-08T09:00:07,-15.5411,168.1889,10,6.3,mww,102 km NE of Norsup; Vanuatu
+2026-10-08T08:07:59,5.6177,125.1838,57.8,5.5,mww,13 km SW of Burias; Philippines
+2026-10-08T07:45:11,5.4566,94.7022,88.61,4.5,mb,70 km W of Banda Aceh; Indonesia
+2026-10-08T06:46:48,-52.5661,140.1371,10,5.5,mww,west of Macquarie Island
+2026-10-08T05:59:28,-47.8332,116.1339,10,4.5,mb,western Indian-Antarctic Ridge
+2026-10-08T05:35:56,-22.214,-68.6856,123.15,4.5,mb,36 km NE of Calama; Chile
+2026-10-08T05:06:50,-9.6285,118.9391,60.18,4.7,mb,39 km SW of Tambolaka; Indonesia
+2026-10-08T04:49:00,-7.7822,120.3316,10,5,mb,92 km N of Ruteng; Indonesia
+2026-10-08T04:41:58,36.6747,142.2527,39.03,4.6,mb,129 km ESE of Iwaki; Japan
+2026-10-08T03:42:52,39.2091,14.3565,362.24,4.9,mww,81 km NNW of Malfa; Italy
+2026-10-08T03:00:00,-7.9273,121.105,10,4.7,mb,103 km NE of Ruteng; Indonesia
+2026-10-07T22:34:24,-23.5784,-176.5151,105.8,4.6,mb,294 km SSW of Houma; Tonga
+2026-10-07T20:56:51,12.6852,-86.9158,207.27,4.6,mb,16 km NE of Chichigalpa; Nicaragua
+2026-10-07T19:36:43,35.7915,139.4628,103.02,4.5,mb,1 km SSW of Tokorozawa; Japan
+2026-10-07T19:13:47,35.6694,140.6117,49.46,4.9,mww,6 km SSW of Asahi; Japan
+2026-10-07T18:15:03,54.4582,162.4968,10,4.8,mww,197 km S of Ust’-Kamchatsk Staryy; Russia
+2026-10-07T18:13:14,-24.7133,179.8686,509.28,4.6,mb,south of the Fiji Islands
+2026-10-07T17:36:14,-4.4501,143.8815,108.27,4.6,mb,47 km SSW of Angoram; Papua New Guinea
+2026-10-07T16:42:49,5.4326,125.8638,114.64,4.7,mb,44 km E of Sarangani; Philippines
+2026-10-07T15:46:15,-21.0841,-68.6726,107.82,4.7,mb,46 km WNW of Ollagüe; Chile
+2026-10-07T15:34:52,-7.9534,120.9661,10,4.5,mb,91 km NE of Ruteng; Indonesia
+2026-10-07T14:59:25,-6.6769,72.3546,10,5.2,mb,Chagos Archipelago region
+2026-10-07T12:17:25,-11.6516,166.1772,59.86,4.6,mb,110 km SSE of Lata; Solomon Islands
+2026-10-07T10:57:34,1.6462,124.695,136.09,4.7,mb,24 km NW of Manado; Indonesia
+2026-10-07T10:20:32,-24.3048,179.8732,513.05,4.5,mb,south of the Fiji Islands
+2026-10-07T07:43:22,14.6356,-93.0417,89.88,4.9,mb,65 km WSW of Aquiles Serdán; Mexico
+2026-10-07T04:39:25,-55.7058,-29.9571,10,4.9,mb,South Sandwich Islands region
+2026-10-07T03:29:21,24.2023,94.6187,112.05,4.5,mb,65 km NNE of Mawlaik; Burma (Myanmar)
+2026-10-07T02:49:59,-21.034,169.0249,10,4.8,mb,131 km ENE of Tadine; New Caledonia
+2026-10-07T02:00:12,28.4449,104.6901,10,4.7,mb,2 km WSW of Xunchang; China
+2026-10-07T01:55:40,51.8764,160.1097,10,4.5,mb,165 km SE of Vilyuchinsk; Russia
+2026-10-07T01:39:09,48.3926,153.3454,141.62,4.5,mb,Kuril Islands
+2026-10-07T01:04:28,-22.8819,170.9841,10,4.6,mb,southeast of the Loyalty Islands
+2026-10-07T00:30:08,52.9519,159.5522,66.25,4.8,mb,63 km ESE of Petropavlovsk-Kamchatsky; Russia
+2026-10-07T00:22:42,36.9965,141.1665,60.13,4.5,mb,25 km ESE of Iwaki; Japan
+2026-10-06T22:12:47,-29.9058,-177.8665,65.79,4.5,mb,Kermadec Islands; New Zealand
+2026-10-06T21:56:43,-3.8805,139.5935,71.71,4.9,mb,183 km SW of Abepura; Indonesia
+2026-10-06T20:15:28,-8.4893,116.1796,144.08,4.6,mb,12 km NNE of Mataram; Indonesia
+2026-10-06T19:02:01,-3.697,101.9028,93.07,4.5,mb,41 km WNW of Bengkulu; Indonesia
+2026-10-06T18:34:31,58.802,-153.609,87.6,5.5,ml,92 km NNW of Aleneva; Alaska
+2026-10-06T18:15:34,42.2641,88.21,10,4.9,mb,109 km SW of Turpan; China
+2026-10-06T17:47:04,43.9715,147.7111,35,4.8,mb,81 km ENE of Shikotan; Russia
+2026-10-06T16:53:12,30.0758,79.5747,19.55,5,mb,32 km NW of Bāgeshwar; India
+2026-10-06T16:48:21,48.3446,154.8289,29,5.8,mww,275 km SSW of Severo-Kuril’sk; Russia
+2026-10-06T15:12:09,-6.6785,72.3224,10,4.7,mb,Chagos Archipelago region
+2026-10-06T13:26:22,-30.8569,178.7672,537.89,4.5,mb,Kermadec Islands region
+2026-10-06T13:11:22,4.8423,118.7737,10,5,mww,43 km NNE of Semporna; Malaysia
+2026-10-06T10:53:47,35.3206,139.5005,10,4.6,mb,3 km SE of Fujisawa; Japan
+2026-10-06T09:52:56,-15.0601,168.0511,10,4.5,mb,105 km E of Port-Olry; Vanuatu
+2026-10-06T08:45:26,-4.4654,152.7854,16.98,4.9,mb,58 km ESE of Kokopo; Papua New Guinea
+2026-10-06T08:29:16,22.7572,143.977,42.39,4.6,mb,Volcano Islands; Japan region
+2026-10-06T06:54:10,-20.0035,-67.4379,193.18,4.5,mb,62 km WNW of Colchani; Bolivia
+2026-10-06T06:16:33,-21.2291,-68.6617,127.64,4.7,mww,42 km W of Ollagüe; Chile
+2026-10-06T04:40:27,6.756,144.4163,10,4.8,mb,State of Yap; Federated States of Micronesia
+2026-10-06T04:28:37,29.0545,142.7835,10,4.6,mb,Izu Islands; Japan region
+2026-10-06T03:42:43,-7.8444,120.3432,10,4.8,mb,85 km N of Ruteng; Indonesia
+2026-10-05T22:53:41,26.3936,92.868,10,4.6,mb,27 km SSE of Tezpur; India
+2026-10-05T22:48:51,-5.7782,154.3305,123.7,4.8,mb,140 km WNW of Panguna; Papua New Guinea
+2026-10-05T21:38:05,-9.6193,118.9268,35,4.5,mb,40 km WSW of Tambolaka; Indonesia
+2026-10-05T20:22:59,-24.4774,179.8632,518.39,5,mb,south of the Fiji Islands
+2026-10-05T19:47:56,9.0124,39.9766,10,4.6,mb,14 km NNE of Metahāra; Ethiopia
+2026-10-05T17:28:24,64.4143,-17.5157,10,4.7,mww,112 km W of Höfn; Iceland
+2026-10-05T13:30:45,25.0888,123.3388,154.72,4.7,mb,76 km NNE of Yonakuni; Japan
+2026-10-05T12:17:22,-9.704,118.8381,34.64,4.5,mb,53 km SW of Tambolaka; Indonesia
+2026-10-05T11:47:07,-15.6973,167.1064,35,4.6,mb,20 km SSW of Luganville; Vanuatu
+2026-10-05T10:52:09,15.8212,147.345,10,5,mb,183 km ENE of Saipan; Northern Mariana Islands
+2026-10-05T10:03:05,-33.7344,-14.4099,10,4.7,mb,southern Mid-Atlantic Ridge
+2026-10-05T07:13:37,22.8564,144.0039,35,4.9,mb,Volcano Islands; Japan region
+2026-10-05T06:14:19,4.4306,126.9628,83.97,4.8,mb,198 km ESE of Sarangani; Philippines
+2026-10-05T05:26:45,-21.3012,-174.3041,10,5,mb,67 km E of ‘Ohonua; Tonga
+2026-10-05T04:16:23,45.9681,151.9359,35,4.6,mb,Kuril Islands
+2026-10-05T03:13:59,51.2674,159.6369,10,4.5,mb,203 km SSE of Vilyuchinsk; Russia
+2026-10-05T01:18:50,-0.4417,-19.9285,10,5.3,mww,central Mid-Atlantic Ridge
+2026-10-04T20:27:24,36.6745,71.0507,235.58,5,mww,28 km SE of Jurm; Afghanistan
+2026-10-04T20:16:28,45.8134,151.3804,50.42,4.5,mb,281 km ENE of Kuril’sk; Russia
+2026-10-04T14:06:10,5.251,-82.6909,10,5,mww,south of Panama
+2026-10-04T12:36:47,-9.1988,112.6889,51.9,4.7,mb,109 km S of Dampit; Indonesia
+2026-10-04T12:25:43,26.5235,-44.5886,10,4.6,mb,northern Mid-Atlantic Ridge
+2026-10-04T11:43:22,37.7324,36.1316,7.69,5.1,mww,21 km ESE of Feke; Turkey
+2026-10-04T11:36:26,37.7896,36.1679,10.4,4.7,mww,22 km E of Feke; Turkey
+2026-10-04T11:19:25,37.7771,36.1687,6.75,4.7,mww,22 km E of Feke; Turkey
+2026-10-04T11:12:48,22.8481,144.6065,10,5.1,mww,Volcano Islands; Japan region
+2026-10-04T11:09:47,-5.0848,151.4151,162.26,4.6,mb,125 km SW of Kokopo; Papua New Guinea
+2026-10-04T10:52:27,-8.2663,120.5607,10,4.7,mb,39 km NNE of Ruteng; Indonesia
+2026-10-04T10:48:02,-34.3174,-179.5302,35,4.5,mb,south of the Kermadec Islands
+2026-10-04T10:13:07,-8.2659,120.2937,10,5,mb,42 km NNW of Ruteng; Indonesia
+2026-10-04T07:56:36,-43.3981,-82.5592,10,4.6,mb,West Chile Rise
+2026-10-04T05:57:54,11.2951,139.0607,10,4.7,mb,221 km NNE of Colonia; Micronesia
+2026-10-04T05:55:07,21.4444,93.7574,59.62,4.6,mb,125 km WNW of Chauk; Burma (Myanmar)
+2026-10-04T01:47:52,-58.12,-23.564,10,4.5,mb,South Sandwich Islands region
+2026-10-04T01:38:45,-6.5507,147.1489,90.12,4.9,mb,25 km NE of Lae; Papua New Guinea
+2026-10-03T23:45:14,24.7901,125.3963,49.39,4.6,mb,8 km E of Miyakojima; Japan
+2026-10-03T23:37:34,4.7986,95.1352,55.02,5.3,mww,85 km SSW of Banda Aceh; Indonesia
+2026-10-03T23:14:35,3.6319,122.9136,573.38,4.5,mb,288 km SSE of Tabiauan; Philippines
+2026-10-03T22:55:52,-9.5399,118.9245,17,5.7,mww,36 km WSW of Tambolaka; Indonesia
+2026-10-03T22:30:26,-13.4313,-111.4027,10,4.6,mb,central East Pacific Rise
+2026-10-03T20:33:44,14.0036,-93.3587,10,4.5,mb,128 km SW of Puerto Madero; Mexico
+2026-10-03T20:00:44,51.5868,159.734,10,4.9,mww,174 km SSE of Vilyuchinsk; Russia
+2026-10-03T18:12:50,20.6723,93.4931,64.36,4.8,mb,85 km NE of Sittwe; Burma (Myanmar)
+2026-10-03T17:24:12,-6.0672,147.3,82.06,4.6,mb,79 km NNE of Lae; Papua New Guinea
+2026-10-03T10:55:05,51.4153,159.9122,10,4.5,mb,197 km SSE of Vilyuchinsk; Russia
+2026-10-03T06:05:20,29.254,130.6555,30.02,4.8,mb,109 km S of Koshima; Japan
+2026-10-03T03:12:55,51.5714,159.8024,10,4.5,mb,178 km SSE of Vilyuchinsk; Russia
+2026-10-03T03:07:39,51.9176,160.232,10,4.5,mb,167 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-10-03T02:59:06,52.1219,160.599,10,5.1,mb,169 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-10-03T00:20:43,51.563,159.3867,35,4.6,mb,166 km SSE of Vilyuchinsk; Russia
+2026-10-03T00:11:38,31.3233,130.5921,125.55,4.5,mb,11 km NNW of Ibusuki; Japan
+2026-10-03T00:01:40,51.9459,159.3507,62.53,4.7,mb,127 km SSE of Vilyuchinsk; Russia
+2026-10-02T23:59:26,51.5657,159.7381,10,4.6,mb,177 km SSE of Vilyuchinsk; Russia
+2026-10-02T23:54:09,51.5816,159.4981,10,4.7,mb,167 km SSE of Vilyuchinsk; Russia
+2026-10-02T22:38:53,-49.3091,-116.8213,10,4.6,mb,southern East Pacific Rise
+2026-10-02T21:14:06,51.8476,159.5196,35,4.6,mb,142 km SSE of Vilyuchinsk; Russia
+2026-10-02T20:54:15,51.6613,159.6944,35.88,4.9,mb,166 km SSE of Vilyuchinsk; Russia
+2026-10-02T20:46:05,51.3043,159.7758,10,4.5,mb,203 km SSE of Vilyuchinsk; Russia
+2026-10-02T20:38:19,52.3931,158.2504,82.23,4.6,mb,60 km S of Vilyuchinsk; Russia
+2026-10-02T20:37:48,52.534,158.0553,77.78,4.6,mb,49 km SSW of Paratunka; Russia
+2026-10-02T20:34:56,40.0539,142.8711,49.9,4.5,mb,90 km E of Noda; Japan
+2026-10-02T20:27:27,51.5045,159.6948,10,4.9,mb,181 km SSE of Vilyuchinsk; Russia
+2026-10-02T20:26:00,-4.6014,152.8565,66.68,4.6,mb,71 km ESE of Kokopo; Papua New Guinea
+2026-10-02T20:25:30,51.793,159.4699,47.75,4.9,mww,145 km SSE of Vilyuchinsk; Russia
+2026-10-02T20:07:12,51.5741,159.9355,10,4.6,mb,183 km SE of Vilyuchinsk; Russia
+2026-10-02T19:11:41,51.1972,160.1785,10,4.5,mb,228 km SSE of Vilyuchinsk; Russia
+2026-10-02T18:25:20,51.6115,159.7723,10,5,mb,173 km SSE of Vilyuchinsk; Russia
+2026-10-02T16:57:27,51.2777,159.3384,10,4.6,mb,194 km SSE of Vilyuchinsk; Russia
+2026-10-02T16:55:33,23.1139,94.4239,106.73,4.5,mb,58 km S of Mawlaik; Burma (Myanmar)
+2026-10-02T16:50:13,51.4649,159.6079,10,4.5,mb,182 km SSE of Vilyuchinsk; Russia
+2026-10-02T16:34:39,51.798,159.6705,17,5.7,mww,152 km SE of Vilyuchinsk; Russia
+2026-10-02T16:31:24,10.3838,-62.2335,10,5,mb,22 km SSE of Güiria; Venezuela
+2026-10-02T16:02:10,52.9553,158.9859,98.47,4.6,mb,26 km ESE of Petropavlovsk-Kamchatsky; Russia
+2026-10-02T16:01:39,-38.3847,145.8076,10,4.7,mb,5 km NNW of Korumburra; Australia
+2026-10-02T15:26:42,38.1196,21.8157,10,4.5,mb,3 km ENE of Chalandrítsa; Greece
+2026-10-02T15:10:19,14.5886,119.4496,10,4.8,mb,78 km WSW of San Nicolas; Philippines
+2026-10-02T13:57:15,-39.144,174.2319,10,5,mb,4 km ENE of Inglewood; New Zealand
+2026-10-02T12:23:27,-19.0377,-175.2047,114.19,4.5,mb,121 km NW of Fangale’ounga; Tonga
+2026-10-02T11:14:13,-6.634,155.0278,35,5,mb,61 km SW of Panguna; Papua New Guinea
+2026-10-02T06:53:38,18.8104,-104.3533,51.61,4.8,mww,29 km SSW of El Colomo; Mexico
+2026-10-02T06:48:07,-7.9378,121.2027,10,4.6,mb,110 km NE of Ruteng; Indonesia
+2026-10-02T05:38:54,2.5512,126.589,10,4.8,mb,182 km WNW of Tobelo; Indonesia
+2026-10-02T04:44:53,-8.8914,158.141,10,5.1,mb,167 km ESE of Gizo; Solomon Islands
+2026-10-02T04:27:07,-24.7083,178.7357,575.65,4.8,mb,south of the Fiji Islands
+2026-10-02T04:10:58,-7.1448,155.632,35,4.9,mb,93 km S of Panguna; Papua New Guinea
+2026-10-02T02:02:38,-11.1575,165.8861,35,4.6,mb,48 km SSE of Lata; Solomon Islands
+2026-10-02T00:52:33,13.9562,92.9585,10,4.6,mb,250 km N of Bamboo Flat; India
+2026-10-02T00:24:06,23.8223,-45.854,10,4.5,mb,northern Mid-Atlantic Ridge
+2026-10-01T21:01:41,36.0182,139.7587,66.53,4.5,mb,3 km ESE of Sugito; Japan
+2026-10-01T20:00:33,-11.8182,167.1967,10,4.9,mww,194 km SE of Lata; Solomon Islands
+2026-10-01T19:38:01,-11.8787,166.9873,10,5.1,mww,182 km SE of Lata; Solomon Islands
+2026-10-01T17:37:11,-7.9881,120.9146,10,4.6,mb,84 km NE of Ruteng; Indonesia
+2026-10-01T17:17:17,39.8559,143.1211,14.48,5.1,mww,103 km ENE of Miyako; Japan
+2026-10-01T14:19:59,-7.0506,120.8431,10,5,mb,177 km NNE of Ruteng; Indonesia
+2026-10-01T13:21:09,2.1294,-97.9215,10,4.6,mb,west of the Galapagos Islands
+2026-10-01T13:10:15,2.1793,-97.5238,10,4.6,mb,west of the Galapagos Islands
+2026-10-01T12:31:39,35.6422,140.8842,35.53,4.6,mb,11 km SSE of Hasaki; Japan
+2026-10-01T12:27:14,35.653,140.4924,64.89,5.2,mww,0 km ENE of Yokoshiba; Japan
+2026-10-01T10:51:42,41.6587,46.8017,10,4.5,mb,13 km NNE of Mamrux; Azerbaijan
+2026-10-01T10:28:19,-5.9097,153.2398,47.79,4.5,mb,203 km SSE of Kokopo; Papua New Guinea
+2026-10-01T10:03:14,31.0032,-41.3986,10,4.7,mb,northern Mid-Atlantic Ridge
+2026-10-01T09:44:55,31.0422,-41.2245,10,4.5,mb,northern Mid-Atlantic Ridge
+2026-10-01T08:45:44,-18.9547,-172.7337,10,4.9,mb,135 km ESE of Neiafu; Tonga
+2026-10-01T08:17:58,41.3535,73.2281,10,4.5,mb,50 km NNE of Jalal-Abad; Kyrgyzstan
+2026-10-01T07:40:06,31.1923,-41.5756,10,4.6,mb,northern Mid-Atlantic Ridge
+2026-10-01T05:38:41,28.5791,104.6464,10,4.6,mb,15 km NNW of Xunchang; China
+2026-10-01T05:34:10,6.0524,123.8339,10,5.3,mb,42 km WSW of Palimbang; Philippines
+2026-10-01T03:50:27,52.031,160.6903,10,4.5,mb,181 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-10-01T02:09:21,-6.1934,130.1379,114.97,4.5,mb,296 km WSW of Tual; Indonesia
+2026-10-01T01:31:19,-0.8263,123.3144,71.82,4.6,mb,60 km ENE of Luwuk; Indonesia
+2026-10-01T01:29:20,36.1078,68.7436,55.09,5,mww,4 km SE of Baghlān; Afghanistan
+2026-10-01T00:41:02,-36.2543,-96.8064,10,4.5,mb,West Chile Rise
+2026-10-01T00:28:22,19.2307,-42.9766,10,4.6,mb,North Atlantic Ocean
+2026-09-30T21:55:26,9.7776,-86.4861,8,5.6,mww,91 km SW of Tamarindo; Costa Rica
+2026-09-30T21:11:57,25.2304,128.5174,10,4.6,mb,130 km SE of Itoman; Japan
+2026-09-30T18:36:23,52.3636,160.1834,36.72,4.9,mb,130 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-09-30T18:26:23,52.2952,160.5726,24.95,4.6,mb,156 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-09-30T18:21:16,52.3164,160.3607,15.57,4.9,mww,143 km SE of Petropavlovsk-Kamchatsky; Russia
+2026-09-30T17:14:09,-32.6482,-178.7938,26.54,4.6,mb,south of the Kermadec Islands
+2026-09-30T17:07:19,4.1113,125.322,9.99,4.5,mb,143 km S of Sarangani; Philippines
